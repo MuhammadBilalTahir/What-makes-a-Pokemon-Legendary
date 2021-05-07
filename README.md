@@ -7,7 +7,7 @@ It speaks for creativity itself. After all what makes a Pokemon Legendary? It is
 
 Data Science is a hobby that can answer anything if you ask the right questions and use the right techniques.
 
-My curiosity drove me to find the answer using Machine Learning techniques and to prove that Data Science can be applied to everything, even to your childhood endeavours and is not just limited to business decisions.
+My curiosity drove me to find the answer using Machine Learning techniques and to prove that Data Science can be applied to everything, even to your childhood endeavors and is not just limited to business decisions.
 
 Leave your comments for improving this project and also you reviews will be highly appreciated. 
 I will be posting similar projects that are different from the norm. So keep watching.
