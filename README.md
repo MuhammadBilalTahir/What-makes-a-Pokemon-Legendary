@@ -5,6 +5,8 @@ We all keep on doing Data Science projects that are related to real life problem
 
 It speaks for creativity itself. Afterall what makes a Pokemon Legandary? It is an interesting question. 
 
+Data Science is a hobby that can answer anything if you ask the right questions and use the right techniques.
+
 My curiosity drove me to find the answer using Machine Learning techniques and to prove that Data Science can be applied to everything, even to your childhood endeavours and is not just limited to business decisions.
 
 Leave your comments for improving this project and also you reviews will be highly appreciated. 
