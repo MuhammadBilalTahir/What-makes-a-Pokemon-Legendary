@@ -3,7 +3,7 @@ What makes a Pokemon Legendary!
 
 We all keep on doing Data Science projects that are related to real life problems. This project is a bit different. 
 
-It speaks for creativity itself. Afterall what makes a Pokemon Legandary? It is an interesting question. 
+It speaks for creativity itself. After all what makes a Pokemon Legendary? It is an interesting question. 
 
 Data Science is a hobby that can answer anything if you ask the right questions and use the right techniques.
 
